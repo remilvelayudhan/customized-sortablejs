@@ -1,0 +1,12 @@
+:host {
+    &::ng-deep {
+        * {
+            display: flex;
+        }
+    }
+}
+
+main {
+    justify-content: center;
+    width: 100%;
+}
